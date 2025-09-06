@@ -1,6 +1,53 @@
 # duma-ielts
 Một lộ trình + hướng dẫn tự học IELTS.
 
+*Lưu ý:* Hướng dẫn học tập này được viết rất vắn tắt vì:
+
+- Mỗi người học một kiểu nên bạn sẽ phải tự tạo cách học của mình. Bạn cũng có thể tự chỉnh sao cho phù hợp với mình. Nhưng cần nhớ một điều là: SẼ KHÔNG CÓ ĐƯỜNG TẮT ĐÂU. Tất nhiên sẽ có cách hiệu quả hơn cách học truyền thống (luôn luôn là vậy), nhưng điều này không có nghĩa là bạn sẽ có thể được 7.0 IELTS chỉ sau một tháng học (Thực ra là có trường hợp này rồi, nhưng mà do đã giỏi Tiếng Anh từ trước). Nói chung là sẽ mất nhiều thời gian nếu bạn đang mất gốc. Nên chỉ còn một cách là DUY TRÌ VIỆC HỌC HÀNG NGÀY.
+- Phần lớn các nội dung đã được mình chia sẻ trong trang [Tự học Tiếng Anh](https://daihocmo.github.io/tieng-anh/), bạn có thể vào đó để đọc thêm (Nếu có thể thì đọc trước khi đọc hướng dẫn này).
+
+
+<details>
+
+<summary>Chia sẻ khá cá nhân của mình về việc <i>Đi học trung tâm thì mới học được</i>.</summary>
+
+Mình thấy khá nhiều người kiểu nghĩ là: "Phải đi học trung tâm thôi chứ mình không tự học được". Cái này là bịp nhé.
+
+Làm một phép tính đơn giản: Bạn đi học trung tâm 2 buổi/tuần, mỗi buổi 2 tiếng, thì vị tri 4 tiếng/tuần, cả năm chắc được cỡ 200 tiếng CHO CẢ 4 KĨ NĂNG.
+
+Theo một ước lượng nào đó mà mình không nhớ, thì cần 2200 giờ để một người Việt có thể đưa Tiếng Anh của mình lên trình độ cao (Theo CEFR thì là cỡ C1 hoặc hơn chút), tức là bạn sẽ được khoảng 7.0 IELTS. Vậy là bạn sẽ đi học trung tâm 11 năm? Cần nhớ rằng RẤT NHIỀU NGƯỜI BẮT ĐẦU HỌC IELTS VỀ CƠ BẢN LÀ MẤT GỐC nên cái khoảng ước lượng 2200 giờ sẽ không chênh lệch đáng kể.
+
+Mình không có ý chê hay xúc phạm hay nói rằng TRUNG TÂM LÀ RÁC và đừng đi học trung tâm. Chỉ đơn giản là bạn phải bỏ công (của chính bạn) ra mà học thôi. Nếu bạn có tiền, mời bạn, nếu không, học theo kiểu người không có tiền (Chính là cái lộ trình này).
+
+Một điều nữa, IELTS là một chứng chỉ để chứng minh rằng bạn BIẾT TIẾNG ANH. Lý do người ta cần bạn cho xem chứng chỉ IELTS chỉ đơn giản là để họ có thể biết được mức độ Tiếng Anh thực sự của bạn tới mức nào. Vậy nên, mình mong là, bạn ĐỪNG HỌC NỬA VỜI, vì đơn giản nó vừa làm tốn thời gian của bạn cũng như người khác.
+
+Thêm một điều nữa, đừng lướt Newsfeed Facebook, TikTok hay gì nữa. Mình biết là cái này được nói nhiều rồi nhưng phần lớn giải pháp mọi người đưa ra đều nửa vời nên mình sẽ không bàn đến cái đống đấy, thay vào đó mình ăn cắp một phương pháp thoát nghiện rượu bia của Jack Trimpey để biến tấu sao cho phù hợp với Mạng xã hội. Mạng xã hội sẽ có hai mặt: Ích (Gần như không có, nhưng nó vẫn có, ví dụ như thông tin trường học), Hại (Tất cả mấy cái còn lại).
+
+Quy tắc cơ bản số 1: Dùng Mạng xã hội như một cái tô vít, bạn ếu thích dùng tô vít, nhưng bạn cần tô vít để xoáy ốc vít, xoáy xong thì là xong việc, không dùng nữa.
+
+Để bắt đầu thì bạn hãy đọc thêm về phương pháp AVRT (Addictive Voice Recognition Technique - Mình sẽ viết một hướng dẫn cụ thể sau): Đại khái là trong bạn có hai phần: Bạn (Chính bạn, chính cái linh hồn và phần người của bạn) còn Con quỷ (The Beast).
+
+Mạng xã hội giả lập cơ chế phần thưởng tự nhiên, về cơ bản là xoay quanh Dopamine, và bạn hiểu rằng mình lướt mạng xã hội vì thèm Dopamine (Và còn nhiều lý do nữa, tự mò cuốn Smart Phone Dumb Phone của Allen Carr đọc thêm nhé).
+
+Vậy nên, bắt đầu đơn giản bằng một câu hỏi: "Mình có bao giờ lướt Newsfeed MXH nữa hay không?" -> "Không, không bao giờ nữa"/"Có, tiếp tục lướt".
+
+Câu trả lời sẽ luôn là "Không, không bao giờ nữa". Sau khi trả lời thì bạn sẽ cảm thấy khó chịu, cảm giác khó chịu này không phải là của bạn, mà là Con quỷ - nó bắt đầu thấy nguy cơ bị mất nguồn Dopamine do Mạng xã hội mang lại.
+
+"Con quỷ không phải là bạn, nó xưng 'tôi, mình' để sai khiến và điều khiển bạn nhằm một mục đích đơn giản, thêm Dopamine".
+
+Cái này chỉ đơn giản là một bản năng từ thời xa xưa của con người, cơ chế phần thưởng được sinh ra để con người có thể tiếp tục sinh tồn và sinh sản.
+
+Rồi khi bạn nói là: "Tao không muốn lướt mạng xã hội, là mày ấy" (Hoặc kiểu tương tự) thì sẽ có một điều khá là ảo xảy ra là nó sẽ xưng là "Bạn, cậu, mày" hoặc gì đó. Kiểu "Mày đi làm về mệt rồi, lướt MXH tí đê", nhưng nó không còn là "tôi" hay "mình" nữa. Vậy thì câu trả lời là gì? "Không, không bao giờ nữa".
+
+Một số quy tắc khác:
+
+- Không bao giờ "chỉ lướt một lúc" hay là "chỉ xem tí thôi".
+- Thoát nghiện suốt đời.
+
+(Đọc thêm bất kì cuốn nào của Allen Carr hoặc Jack Trimpey để hiểu rõ hơn và tránh các lỗi sai hoặc các vấn đề trong việc hiểu phương pháp)
+
+</details>
+
 **Dài quá không thèm đọc**: Học từ vựng, ngữ pháp, luyện 4 kĩ năng mỗi ngày với độ khó tăng dần cho đến khi độ khó vượt quá điểm mục tiêu của bạn.
 
 Làm thế nào để chọn tài nguyên với "độ khó tăng dần"? Mình cũng không biết, bạn phải tự tham khảo đống tài nguyên mà mình đã đi nhặt ở dưới đây.
@@ -27,11 +74,9 @@ Rồi giờ đến việc luyện tập nói viết:
 
 Nói thì rất nhiều nền tảng như Discord, Omegle (Còn có cả kênh Discord tên là Dismegle hay gì đó hoạt động kiểu tương tự), Tandem, HelloTalk này kia (Ngoại trừ Discord hoặc Omegle thì phần lớn đều khá phí thời gian, nhưng bạn có thể thử). Luyện phát âm thì luyện chuẩn theo IPA trước đã, vì phiên âm của bên họ là vậy, đọc đúng trong từ điển để có phát âm chuẩn thay vì tự đọc hay để giáo viên người Việt đọc cho mà phát âm theo (Tất nhiên là vẫn có người phát âm tốt, chuẩn này kia nhưng tỉ lệ bạn có thể gặp được người như vậy ở trung tâm ngoại ngữ thì mình (rất) chắc là nó không cao).
 
-Luyện viết? Ăn cắp chủ đề trên mạng viết rồi nhờ ChatGPT chấm cho, hoặc Gemini, Quillbot hoặc gì cũng được. Nếu không muốn dùng những công cụ này thì có thể tập dựa trên các bài có sẵn (Lấy các bài viết được điểm cao về một chủ đề rồi xem họ viết thế nào, ăn cắp cấu trúc, từ vựng, mở bài kết bài, cách liên kết ý, liên kết câu. Nghe thì lằng nhằng nhưng về cơ bản nó chỉ là pattern recognition - nhận dạng mẫu (À không phải là AI này kia đâu, mình chỉ đang bắt chước cách người ta viết thôi)).
+Luyện viết? Ăn cắp chủ đề trên mạng viết rồi nhờ ChatGPT chấm cho, hoặc Gemini, Quillbot hoặc gì cũng được. Nếu không muốn dùng những công cụ này thì có thể tập dựa trên các bài có sẵn (Lấy các bài viết được điểm cao về một chủ đề rồi xem họ viết thế nào, ăn cắp cấu trúc, từ vựng, mở bài kết bài, cách liên kết ý, liên kết câu. Nghe thì lằng nhằng nhưng về cơ bản nó chỉ là pattern recognition - nhận dạng mẫu (À không phải là AI này kia đâu, mình chỉ đang bắt chước cách viết IELTS Writing của người ta thôi)).
 
 Lộ trình dưới đây được viết bởi ChatGPT, yep. Vậy nên không có cam kết gì đâu =)). Chúc các đồng bào tự học zui. Nếu không đỗ thì thôi (À mà trong IELTS làm gì có đỗ hay trượt).
-
-Một lần thi IELTS nếu tính một cách khách quan thì rẻ chán so với số tiền bạn bỏ ra để đi học trung tâm.
 
 ## 🎯 Tổng quan lộ trình
 
