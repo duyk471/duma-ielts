@@ -7,9 +7,11 @@ Một lộ trình + hướng dẫn tự học IELTS.
 - Phần lớn các nội dung đã được mình chia sẻ trong trang [Tự học Tiếng Anh](https://daihocmo.github.io/tieng-anh/), bạn có thể vào đó để đọc thêm (Nếu có thể thì đọc trước khi đọc hướng dẫn này).
 
 
-<details>
+---
 
-<summary>Chia sẻ khá cá nhân của mình về việc <i>Đi học trung tâm thì mới học được</i>.</summary>
+Chia sẻ khá cá nhân của mình về việc **Đi học trung tâm thì mới học được**.
+
+_Mình không cố ý xúc phạm hay bôi nhọ bất kì một ai, xin cảm ơn._
 
 Mình thấy khá nhiều người kiểu nghĩ là: "Phải đi học trung tâm thôi chứ mình không tự học được". Cái này là bịp nhé.
 
@@ -46,7 +48,7 @@ Một số quy tắc khác:
 
 (Đọc thêm bất kì cuốn nào của Allen Carr hoặc Jack Trimpey để hiểu rõ hơn và tránh các lỗi sai hoặc các vấn đề trong việc hiểu phương pháp)
 
-</details>
+---
 
 **Dài quá không thèm đọc**: Học từ vựng, ngữ pháp, luyện 4 kĩ năng mỗi ngày với độ khó tăng dần cho đến khi độ khó vượt quá điểm mục tiêu của bạn.
 
